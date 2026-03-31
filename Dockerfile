@@ -1,2 +1,2 @@
-FROM ghcr.io/openclaw/openclaw:latest
+FROM coollabs/openclaw:2026.2.6
 CMD ["openclaw", "telegram", "start"]
